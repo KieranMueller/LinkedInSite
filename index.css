@@ -26,6 +26,7 @@ html{
     text-decoration: none;
     display: inline-block;
     animation: color 5s infinite linear;
+    transition: .2s;
 }
 @keyframes color {
 
