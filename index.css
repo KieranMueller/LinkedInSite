@@ -32,7 +32,6 @@ html{
 
     50%{
         background: rgb(149, 237, 221);
-        scale:1.02;
     }
 }
 
@@ -74,4 +73,17 @@ img{
     img{
         display: none;
     }
+}
+.tile-container{
+    position: fixed;
+    z-index: -5;
+    top:320px;
+    display: grid;
+    grid-template-columns: repeat(60, 1fr);
+}
+.back{
+    background-color: black;
+    border:1px solid white;
+    height:2vh;
+    width:1vw;
 }
