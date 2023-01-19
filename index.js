@@ -1583,6 +1583,7 @@ function App() {
         <div className="div">
             <a href="https://github.com/KieranMueller" target="_blank">Github</a>
             <a href="https://bright-kringle-e6be6c.netlify.app/" target="_blank">Meme Generator (React)</a>
+            <a href="https://aquamarine-meringue-018b62.netlify.app/" target="_blank">Dice Game</a>
             <a href="https://funny-gaufre-4001b4.netlify.app/" target="_blank">To Do List</a>
             <a href="https://remarkable-dusk-1d745f.netlify.app/" target="_blank">Unit Converter</a>
             <a href="https://capable-cobbler-943e2b.netlify.app/" target="_blank">Cat Website</a>
